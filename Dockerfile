@@ -2,6 +2,8 @@ FROM gliderlabs/alpine:3.4
 
 MAINTAINER "Julien Dubreuil"
 
+RUN apk update && apk add --no-cache docker
+
 COPY crontab /tmp/crontab
 
 COPY run-crond.sh /run-crond.sh
