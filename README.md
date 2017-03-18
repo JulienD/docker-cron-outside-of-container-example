@@ -95,3 +95,9 @@ Using a volume you should be able to add the docker binary like this.
 ## Copyright and License
 MIT License, see [LICENSE](License.txt) for details.
 Copyright (c) 2017 Julien Dubreuil
+
+---
+
+> GitHub [@JulienD](https://github.com/JulienD) &nbsp;&middot;&nbsp;
+> [Blog](http://juliendubreuil.fr) &nbsp;&middot;&nbsp;
+> Twitter [@juliendubreuil](https://twitter.com/juliendubreuil)
